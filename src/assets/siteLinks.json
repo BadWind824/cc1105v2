@@ -1,37 +1,33 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "百度一下",
+    "link": "https://www.baidu.com/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "天气",
+    "link": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=%E5%A4%A9%E6%B0%94&fenlei=256&oq=%25E7%2599%25BE%25E5%25BA%25A6%25E5%25A4%25A9%25E6%25B0%2594&rsv_pq=81d113280009658e&rsv_t=241fQVGijbsaeq5fph8xh9ijW9WSmZDvK4NIIkp7DaVvzGN7Ahxr01uPOPs&rqlang=cn&rsv_enter=1&rsv_btype=t&rsv_dl=tb&inputT=1449"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.163.com/#/user/home?id=360905712"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "樱花屏保",
+    "link": "https://badwind824.top"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "艺雨小站",
+    "link": "http://y.badwind824.top"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "哔哩哔哩",
+    "link": "https://www.bilibili.com/"
   }
+  
 ]
