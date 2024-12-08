@@ -14,12 +14,12 @@
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
           &amp;&nbsp;Made&nbsp;by
-          <a :href="AtlantisRain" target="_blank">
+          <a :href="AtlantisRain" target="_self">
             {{ config.author }}
           </a>
         </span>
         <!-- 站点备案 -->
-        <a v-if="siteIcp" href="" target="_blank">
+        <a v-if="siteIcp" href="" target="_self">
           &amp;
           {{ siteIcp }}
         </a>
@@ -51,7 +51,7 @@ const siteIcp = ref(import.meta.env.VITE_SITE_ICP);
 const siteAnthor = ref(import.meta.env.VITE_SITE_ANTHOR);
 const siteUrl = computed(() => {
   const url = import.meta.env.VITE_SITE_URL;
-  if (!url) return "https://cc1105dev.pages.dev/";
+  if (!url) return "https://1105.badwind824.top/";
   // 判断协议前缀
   if (!url.startsWith("http://") && !url.startsWith("https://")) {
     return "//" + url;
