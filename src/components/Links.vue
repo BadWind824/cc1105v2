@@ -69,7 +69,7 @@ const siteIcon = {
   Compass,
   Book,
   Fire,
-  GlobeAmericas,
+  LaptopCode,
 };
 
 // 链接跳转
