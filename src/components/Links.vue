@@ -70,6 +70,7 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  BloggerB,
 };
 
 // 链接跳转
