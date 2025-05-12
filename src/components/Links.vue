@@ -70,6 +70,8 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  AntCloudOutlined,
+  Earth,
 };
 
 // 链接跳转

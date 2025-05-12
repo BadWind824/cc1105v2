@@ -16,18 +16,18 @@
   },
   {
     "icon": "Compass",
+    "name": "南风导航站",
+    "link": "https://dh.badwind824.top/"
+  },
+  {
+    "icon": "Book",
     "name": "YY_Blog",
     "link": "https://shiyu.badwind824.top"
   },
   {
-    "icon": "Book",
+    "icon": "Earth",
     "name": "南风的小破站",
     "link": "https://ovo.badwind824.top"
-  },
-  {
-    "icon": "Fire",
-    "name": "哔哩哔哩",
-    "link": "https://www.bilibili.com/"
   }
   
 ]
